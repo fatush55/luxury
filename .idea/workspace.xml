@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="575e0518-8e4a-485f-bf3f-3257e4698bab" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="luxury.loc" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/luxury/core" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/gabordemooij/redbean" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/valitron" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1TrBvoHM9KzXXzjtGIOdwxXMJ3h" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\luxury.loc\public\images" />
+      <recent name="C:\OSPanel\domains\luxury.loc\public\adminLTE\js" />
+      <recent name="C:\OSPanel\domains\luxury.loc\public\adminLTE" />
+      <recent name="C:\OSPanel\domains\luxury.loc\public\adminLTE\ckeditor\skins" />
+      <recent name="C:\OSPanel\domains\luxury.loc\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\luxury.loc\public\adminLTE\css" />
+      <recent name="C:\OSPanel\domains\luxury.loc\public\js" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="$perpage" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="575e0518-8e4a-485f-bf3f-3257e4698bab" name="Default Changelist" comment="" />
+      <created>1574208566426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574208566426</updated>
+      <workItem from="1574208568136" duration="1000" />
+      <workItem from="1574208578706" duration="41682000" />
+      <workItem from="1574369638260" duration="10835000" />
+      <workItem from="1574459895118" duration="17329000" />
+      <workItem from="1574551667872" duration="56672000" />
+      <workItem from="1574814323213" duration="33663000" />
+      <workItem from="1574938960502" duration="33878000" />
+      <workItem from="1575021082920" duration="43714000" />
+      <workItem from="1575221267691" duration="65321000" />
+      <workItem from="1575407844518" duration="143348000" />
+      <workItem from="1575933682978" duration="21315000" />
+      <workItem from="1576017393893" duration="256000" />
+      <workItem from="1576020755118" duration="3553000" />
+      <workItem from="1576055838633" duration="41314000" />
+      <workItem from="1576248517259" duration="39520000" />
+      <workItem from="1576338891361" duration="25379000" />
+      <workItem from="1576449135442" duration="42023000" />
+      <workItem from="1576592693254" duration="4622000" />
+      <workItem from="1576624770330" duration="34813000" />
+      <workItem from="1576725132514" duration="8601000" />
+      <workItem from="1576796771700" duration="16922000" />
+      <workItem from="1576849849023" duration="46640000" />
+      <workItem from="1577040198035" duration="137587000" />
+      <workItem from="1577408874030" duration="58000" />
+      <workItem from="1577440783751" duration="25411000" />
+      <workItem from="1577572539734" duration="12145000" />
+      <workItem from="1577629496699" duration="24516000" />
+      <workItem from="1577757135107" duration="19591000" />
+      <workItem from="1577858017564" duration="8755000" />
+      <workItem from="1577887353032" duration="21243000" />
+      <workItem from="1578030780252" duration="8197000" />
+      <workItem from="1578116589586" duration="21810000" />
+      <workItem from="1578375663061" duration="10159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/views/admin/Category/edit.php</url>
+          <line>56</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

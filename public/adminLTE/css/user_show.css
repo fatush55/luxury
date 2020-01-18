@@ -1,0 +1,10 @@
+.widget-user .widget-user-image>img {
+    border: 3px solid #fff;
+    height: auto;
+    width: 90px;
+}
+
+.table-responsive {
+    overflow-x: hidden;
+    height: 392px;
+}
