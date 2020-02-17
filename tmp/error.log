@@ -23355,3 +23355,255 @@ error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol | File: /hom
         Type:  | Text: Page not fount | File: /home/afro55/afromipa.fun/www/vendor/luxury/core/Router.php  | Lime: 48
          
 <===========================================>
+[2020-02-18 01:02:56] => 
+        Type: E_WARNING | Text: Class '\RedBeanPHP\R' not found | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Db.php  | Lime: 14
+         
+<===========================================>
+[2020-02-18 01:02:56] => 
+        Type: Exception | Text: Class 'R' not found | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Db.php  | Lime: 15
+         
+<===========================================>
+[2020-02-18 01:06:00] => 
+        Type:  | Text: Database connection fail | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Db.php  | Lime: 18
+         
+<===========================================>
+[2020-02-18 01:06:01] => 
+        Type:  | Text: Database connection fail | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Db.php  | Lime: 18
+         
+<===========================================>
+[2020-02-18 01:06:02] => 
+        Type:  | Text: Database connection fail | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Db.php  | Lime: 18
+         
+<===========================================>
+[2020-02-18 01:06:02] => 
+        Type:  | Text: Database connection fail | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Db.php  | Lime: 18
+         
+<===========================================>
+[2020-02-18 01:06:02] => 
+        Type:  | Text: Database connection fail | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Db.php  | Lime: 18
+         
+<===========================================>
+[2020-02-18 01:06:02] => 
+        Type:  | Text: Database connection fail | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Db.php  | Lime: 18
+         
+<===========================================>
+[2020-02-18 01:06:12] => 
+        Type:  | Text: Database connection fail | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Db.php  | Lime: 18
+         
+<===========================================>
+[2020-02-18 01:06:14] => 
+        Type:  | Text: Database connection fail | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Db.php  | Lime: 18
+         
+<===========================================>
+[2020-02-18 01:06:14] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Router.php  | Lime: 48
+         
+<===========================================>
+[2020-02-18 01:06:31] => 
+        Type:  | Text: Database connection fail | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Db.php  | Lime: 18
+         
+<===========================================>
+[2020-02-18 01:07:07] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:07:39] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:07:40] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:08:54] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:08:55] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:08:55] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:08:56] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:08:58] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:09:25] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:09:56] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:09:57] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:09:57] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:09:57] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:09:57] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:09:57] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:09:58] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:09:58] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Router.php  | Lime: 48
+         
+<===========================================>
+[2020-02-18 01:10:50] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:11:30] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:12:57] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:12:59] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:14:11] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:14:19] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:15:09] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:15:10] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:16:29] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:16:30] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:16:30] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:16:31] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:16:31] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:16:31] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:16:31] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:16:32] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Router.php  | Lime: 48
+         
+<===========================================>
+[2020-02-18 01:16:33] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:16:38] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:16:40] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:16:46] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:16:52] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:16:55] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:17:00] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:17:00] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:17:00] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:17:00] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:17:14] => 
+        Type: Exception | Text: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-18 01:17:32] => 
+        Type:  | Text: Database connection fail | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Db.php  | Lime: 18
+         
+<===========================================>
+[2020-02-18 01:18:09] => 
+        Type:  | Text: Database connection fail | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Db.php  | Lime: 18
+         
+<===========================================>
+[2020-02-18 01:18:10] => 
+        Type:  | Text: Database connection fail | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Db.php  | Lime: 18
+         
+<===========================================>
+[2020-02-18 01:18:10] => 
+        Type:  | Text: Database connection fail | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Db.php  | Lime: 18
+         
+<===========================================>
+[2020-02-18 01:18:11] => 
+        Type:  | Text: Database connection fail | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Db.php  | Lime: 18
+         
+<===========================================>
+[2020-02-18 01:18:11] => 
+        Type:  | Text: Database connection fail | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Db.php  | Lime: 18
+         
+<===========================================>
+[2020-02-18 01:18:12] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\luxury.loc\luxury\vendor\luxury\core\Router.php  | Lime: 48
+         
+<===========================================>

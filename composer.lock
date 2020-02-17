@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "32b608c5ecbcf7c51e5e7676b19e78bb",
+    "content-hash": "817cc42208feab0ad14a843d19d96236",
     "packages": [
         {
             "name": "doctrine/lexer",
@@ -126,16 +126,16 @@
         },
         {
             "name": "gabordemooij/redbean",
-            "version": "dev-master",
+            "version": "v5.4.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/gabordemooij/redbean.git",
-                "reference": "b543e33dc329ce2fad67b90d2fce418b2c5c1226"
+                "reference": "58d366ac135cf14c7b952cda075a7723dfb425a7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/gabordemooij/redbean/zipball/b543e33dc329ce2fad67b90d2fce418b2c5c1226",
-                "reference": "b543e33dc329ce2fad67b90d2fce418b2c5c1226",
+                "url": "https://api.github.com/repos/gabordemooij/redbean/zipball/58d366ac135cf14c7b952cda075a7723dfb425a7",
+                "reference": "58d366ac135cf14c7b952cda075a7723dfb425a7",
                 "shasum": ""
             },
             "require": {
@@ -163,7 +163,7 @@
             "keywords": [
                 "orm"
             ],
-            "time": "2019-11-18T19:01:43+00:00"
+            "time": "2019-12-26T17:14:58+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -515,9 +515,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "gabordemooij/redbean": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

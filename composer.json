@@ -6,7 +6,7 @@
     }
   },
   "require": {
-    "gabordemooij/redbean": "dev-master",
+    "gabordemooij/redbean": "^5.4",
     "vlucas/valitron": "^1.4",
     "swiftmailer/swiftmailer": "^6.2"
   }
